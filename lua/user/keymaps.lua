@@ -54,3 +54,5 @@ keymap("v", ">", ">gv", opts)
 
 -- Keep text in clipboard
 keymap("v", "p", '"_dP', opts)
+
+keymap("n", "<leader>b", ":Gitsigns blame_line<CR>", opts)
