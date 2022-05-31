@@ -73,10 +73,10 @@ nvimtree.setup {
     timeout = 500,
   },
   view = {
-    width = 30,
+    width = 40,
     height = 30,
     hide_root_folder = false,
-    side = 'left',
+    side = 'right',
     auto_resize = true,
     mappings = {
       custom_only = false,
