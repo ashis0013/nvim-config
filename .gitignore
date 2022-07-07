@@ -1,3 +1,4 @@
 .netrwhist
 plugin
 .DS_Store
+*.lua-e
